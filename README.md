@@ -12,7 +12,12 @@
   - ✉ **E-mail:** gustavocauzzi@gmail.com
   - 🤖 **Discord:** GustavoCzz #0918
 
-<img src="https://www.thiengo.com.br/img/post/normal/ap9rsbm2hmba6rtgoj1cvudv55ffee16507b9973e29dfbb0a81db3a165.jpg" alt="imagem" style="height: 56px" />
+<style>
+img {
+  width: 100px  
+}  
+</style>
+<img src="https://www.thiengo.com.br/img/post/normal/ap9rsbm2hmba6rtgoj1cvudv55ffee16507b9973e29dfbb0a81db3a165.jpg" alt="imagem" />
 <!--
 **Gustavo-Cauzzi/Gustavo-Cauzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![alt text](https://www.thiengo.com.br/img/post/normal/ap9rsbm2hmba6rtgoj1cvudv55ffee16507b9973e29dfbb0a81db3a165.jpg)

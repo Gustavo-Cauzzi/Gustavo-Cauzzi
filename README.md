@@ -7,11 +7,12 @@
 
 - 💜 Love to build random and challenging things.
 
-- 💬 Wanna reach me:
+- 💬 Wanna reach me?
   - 🔗 **Linkedin:** https://www.linkedin.com/in/gustavo-andre-cauzzi/
   - ✉ **E-mail:** gustavocauzzi@gmail.com
   - 🤖 **Discord:** GustavoCzz #0918
 
+![alt text](https://www.thiengo.com.br/img/post/normal/ap9rsbm2hmba6rtgoj1cvudv55ffee16507b9973e29dfbb0a81db3a165.jpg)
 
 <!--
 **Gustavo-Cauzzi/Gustavo-Cauzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

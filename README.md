@@ -3,7 +3,7 @@
 
 - 🚀 I'm a Fullstack developer in ReactJS, React Native and Node.js
 
-- 🎓 I have a Technician Degree at Computing by Uniftec.
+- 🎓 Now starting a Computer Science major in UCS - Universidade de Caxias do Sul.
 
 - 💜 Love to build random and challenging things.
 

@@ -3,7 +3,7 @@
 
 - 🚀 I'm a Fullstack developer in ReactJS, React Native and Node.js
 
-- 🎓 Computer Science bachelor degree in UCS - Universidade de Caxias do Sul.
+- 🎓 Studying Computer Science bachelor degree in UCS - Universidade de Caxias do Sul.
 
 - 💜 Love to build random and challenging things.
 

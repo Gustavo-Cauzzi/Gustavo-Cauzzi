@@ -17,3 +17,8 @@
   - ✉ **E-mail:** gustavocauzzi@gmail.com
 
 By the way, here is [my GitLab account](https://gitlab.com/Gustavo-Cauzzi). I have a lot of activity there too 😊.
+
+#
+
+[![Cauzzi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Cauzzi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+

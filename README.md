@@ -1,12 +1,12 @@
 # Hi, I'm Gustavo.
 
-- 🚀 I'm a Fullstack developer. I like to do stuff in all sorts of crazy languages, but I'm a lover for the whole ReactJS, React Native and Nodejs ecossystem.
+- 🚀 I'm a Fullstack developer. I like to do stuff in all sorts of crazy languages, but I'm a lover for the whole ReactJS, React Native and Nodejs ecosystem.
 
 - 🎓 Studying Computer Science bachelor degree in UCS - Universidade de Caxias do Sul.
 
 - 📚 Trying to learn something new everyday. #NeverStopLearning
 
-- 🧑‍🏫 Sometimes, I become a teacher to my local community teaching the basics of programing and web development for people who whishes to start a career.
+- 🧑‍🏫 Sometimes, I become a teacher to my local community teaching the basics of programing and web development for people who wishes to start a career.
 
 - 💜 Love to build random and challenging things.
 

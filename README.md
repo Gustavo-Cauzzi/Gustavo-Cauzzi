@@ -10,7 +10,7 @@
 
 - 💜 Love to build random and challenging things.
 
-- 💼 Currently working at [NL Informática](https://www.nl.com.br/).
+- 💼 Currently working at [Testbox](https://www.testbox.com/).
 
 - 💬 Wanna reach me?
   - 🔗 **Linkedin:** https://www.linkedin.com/in/gustavo-andre-cauzzi/
